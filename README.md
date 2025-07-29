@@ -15,6 +15,10 @@ DESCRIOTION The Temperature Monitoring System is a useful and practical electron
 
 circuit:
 
+<img width="848" height="343" alt="Image" src="https://github.com/user-attachments/assets/7b42c303-87b3-47bf-9491-9356f43903ae" />
 
 output:
+
+<img width="870" height="435" alt="Image" src="https://github.com/user-attachments/assets/36aacce7-e327-48ca-ad87-dfc6323a02d1" />
+
 
